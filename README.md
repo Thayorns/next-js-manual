@@ -1,2 +1,2 @@
-# next-js-manual
-learning how to next
+### next-js-manual
+learning how to next..
